@@ -11,7 +11,7 @@
 					<key>kind</key>
 					<string>software-package</string>
 					<key>url</key>
-					<string>https://lkl-ios.oss-cn-shanghai.aliyuncs.com/LookingEdu.ipa?Expires=1587896286&OSSAccessKeyId=TMP.3KdqdawTPYou1A8qBNKR75rZ6aYJrquLxvUNHrFCLuxxGsdYi9CaTWS7i3mdTssPjkAszLDasj8AVRFBdGeXaT8rvFDA9o&Signature=q5AzStpFD1SYiq14N52gYPwEPbQ=</string>
+					<string>https:10.10.0.5/OTA/LookingEdu.ipa</string>
 				</dict>
 				<dict>
 					<key>kind</key>
